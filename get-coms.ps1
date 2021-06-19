@@ -1,0 +1,2 @@
+Get-ADComputer -Identity atest
+
